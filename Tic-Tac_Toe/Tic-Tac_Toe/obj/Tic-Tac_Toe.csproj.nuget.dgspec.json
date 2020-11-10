@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Tic-Tac_Toe-C#\\Tic-Tac_Toe\\Tic-Tac_Toe\\Tic-Tac_Toe.csproj": {}
+    "C:\\Users\\Armee\\Source\\Repos\\Tic-Tac-Toe\\Tic-Tac_Toe\\Tic-Tac_Toe\\Tic-Tac_Toe.csproj": {}
   },
   "projects": {
-    "F:\\Tic-Tac_Toe-C#\\Tic-Tac_Toe\\Tic-Tac_Toe\\Tic-Tac_Toe.csproj": {
+    "C:\\Users\\Armee\\Source\\Repos\\Tic-Tac-Toe\\Tic-Tac_Toe\\Tic-Tac_Toe\\Tic-Tac_Toe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tic-Tac_Toe-C#\\Tic-Tac_Toe\\Tic-Tac_Toe\\Tic-Tac_Toe.csproj",
+        "projectUniqueName": "C:\\Users\\Armee\\Source\\Repos\\Tic-Tac-Toe\\Tic-Tac_Toe\\Tic-Tac_Toe\\Tic-Tac_Toe.csproj",
         "projectName": "Tic-Tac_Toe",
-        "projectPath": "F:\\Tic-Tac_Toe-C#\\Tic-Tac_Toe\\Tic-Tac_Toe\\Tic-Tac_Toe.csproj",
+        "projectPath": "C:\\Users\\Armee\\Source\\Repos\\Tic-Tac-Toe\\Tic-Tac_Toe\\Tic-Tac_Toe\\Tic-Tac_Toe.csproj",
         "packagesPath": "C:\\Users\\Armee\\.nuget\\packages\\",
-        "outputPath": "F:\\Tic-Tac_Toe-C#\\Tic-Tac_Toe\\Tic-Tac_Toe\\obj\\",
+        "outputPath": "C:\\Users\\Armee\\Source\\Repos\\Tic-Tac-Toe\\Tic-Tac_Toe\\Tic-Tac_Toe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Armee\\AppData\\Roaming\\NuGet\\NuGet.Config",

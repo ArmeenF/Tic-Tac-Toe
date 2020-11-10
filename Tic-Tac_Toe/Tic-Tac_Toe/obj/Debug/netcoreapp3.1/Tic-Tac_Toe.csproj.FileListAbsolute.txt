@@ -11,3 +11,16 @@ F:\Tic-Tac_Toe-C#\Tic-Tac_Toe\Tic-Tac_Toe\obj\Debug\netcoreapp3.1\Tic-Tac_Toe.cs
 F:\Tic-Tac_Toe-C#\Tic-Tac_Toe\Tic-Tac_Toe\obj\Debug\netcoreapp3.1\Tic-Tac_Toe.dll
 F:\Tic-Tac_Toe-C#\Tic-Tac_Toe\Tic-Tac_Toe\obj\Debug\netcoreapp3.1\Tic-Tac_Toe.pdb
 F:\Tic-Tac_Toe-C#\Tic-Tac_Toe\Tic-Tac_Toe\obj\Debug\netcoreapp3.1\Tic-Tac_Toe.genruntimeconfig.cache
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\bin\Debug\netcoreapp3.1\Tic-Tac_Toe.exe
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\bin\Debug\netcoreapp3.1\Tic-Tac_Toe.deps.json
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\bin\Debug\netcoreapp3.1\Tic-Tac_Toe.runtimeconfig.json
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\bin\Debug\netcoreapp3.1\Tic-Tac_Toe.runtimeconfig.dev.json
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\bin\Debug\netcoreapp3.1\Tic-Tac_Toe.dll
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\bin\Debug\netcoreapp3.1\Tic-Tac_Toe.pdb
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\obj\Debug\netcoreapp3.1\Tic-Tac_Toe.csprojAssemblyReference.cache
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\obj\Debug\netcoreapp3.1\Tic-Tac_Toe.AssemblyInfoInputs.cache
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\obj\Debug\netcoreapp3.1\Tic-Tac_Toe.AssemblyInfo.cs
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\obj\Debug\netcoreapp3.1\Tic-Tac_Toe.csproj.CoreCompileInputs.cache
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\obj\Debug\netcoreapp3.1\Tic-Tac_Toe.dll
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\obj\Debug\netcoreapp3.1\Tic-Tac_Toe.pdb
+C:\Users\Armee\Source\Repos\Tic-Tac-Toe\Tic-Tac_Toe\Tic-Tac_Toe\obj\Debug\netcoreapp3.1\Tic-Tac_Toe.genruntimeconfig.cache
